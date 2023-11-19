@@ -1,0 +1,19 @@
+#image{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 100%;
+   
+}
+/* #container{
+    
+        overflow: hidden;
+      
+} */
+#a {
+ 
+    bottom: 0;
+    right: 0;
+    z-index: 2;
+  }
+  
