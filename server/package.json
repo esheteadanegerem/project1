@@ -1,13 +1,13 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
+  "description": "webserverice for assignment",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "adane ehsete",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
@@ -22,5 +22,6 @@
     "nodemon": "^3.0.1",
     "path": "^0.12.7",
     "url": "^0.11.3"
-  }
+  },
+  "devDependencies": {}
 }
